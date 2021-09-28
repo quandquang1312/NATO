@@ -6,7 +6,7 @@ The project itself is used for the C# Winform course at my university.
 
 **Database design:**
 
-![Screenshot 2021-09-28 020621](/r_img/Screenshot 2021-09-28 020621.png)
+![Screenshot 2021-09-28 020621](r_img/Screenshot 2021-09-28 020621.png)
 
 **Screenshoots:**
 
